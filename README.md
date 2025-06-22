@@ -48,5 +48,5 @@ Este projeto foi desenvolvido com **Streamlit**, que permite cadastrar produtos 
 
 
 ## 📸 Telas da aplicação e configuração do Azure 
+      na pasta arquivos/imagens
 
-### Selecionando o Azure SQL
